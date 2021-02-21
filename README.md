@@ -1,7 +1,10 @@
 # UofTHacks-VIII
 
 To run:
-virtualenv venv\n
-.\venv\Scripts\activate\n
-pip install flask flask-wtf flask-sqlalchemy flask-migrate flask-login email-validator\n
-flask run\n
+virtualenv venv
+<br />
+.\venv\Scripts\activate
+<br />
+pip install flask flask-wtf flask-sqlalchemy flask-migrate flask-login email-validator
+<br />
+flask run
