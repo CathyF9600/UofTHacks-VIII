@@ -7,7 +7,7 @@ Follow these steps to add the extension to chrome:
   2)Go to chrome://extensions/ and 
 
   3)Turn on developer mode on the top right corner of the page.
-
-  4) Click on load unpacked.
+  
+  4)Click on load unpacked.
  
  This extension works only on chrome as of now. 
