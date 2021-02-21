@@ -10,4 +10,4 @@ Follow these steps to add the extension to chrome:
   
   4)Click on load unpacked.
  
- This extension works only on chrome as of now. 
+ This extension works only on chrome as of now. Be sure to turn on chrome notifications from the setting on your computter.
